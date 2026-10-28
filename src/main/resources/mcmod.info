@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "anubis",
+    "name": "Anubis AntiVanish",
+    "description": "AntiVanish adaptation for Minecraft 1.8.9 Forge.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "clientSideOnly": true
+  }
+]
